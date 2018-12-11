@@ -53,18 +53,18 @@ a:hover, a:focus {
   //color: var(--color3);
   //font-weight: bold;
 }
-h2 > a {
+/* h2 > a {
   color: var(--color4);
   text-decoration: none;
 }
 h2 > a:hover {
   color: var(--color2);
   text-decoration: none;
-}
+} */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
 }
-h2 {
+.accordionHeading h2 {
   border-bottom-color: var(--color4);
   border-bottom-style: solid;
   border-bottom-width: 2px;
